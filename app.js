@@ -1,3 +1,3 @@
-alert('Por fin anda esto');
+alert('Probando JS');
 
 
