@@ -1,3 +1,3 @@
-alert('Probando');
+alert('Probando JS');
 
 
